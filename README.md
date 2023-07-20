@@ -1,3 +1,7 @@
+this is a clone from https://git.beagleboard.org/beagleconnect/cc1352-flasher
+
+# Old README:
+
 Before finalizing this fork, this commit needs to include moving to git.beagleboard.org CI.
 
 
